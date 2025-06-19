@@ -60,10 +60,10 @@ Access to timely and accurate medical diagnosis is a challenge in many areas. Pa
 ## 📸 Screenshots
 
 ### 📝 Symptom Input Form
-![Symptom Input Form](symptom_input_form.png)
+![Symptom Input Form](symptom_input_form.png.png)
 
 ### 🧾 Diagnosis Result Page
-![Diagnosis Result Page](diagnosis_result_page.png)
+![Diagnosis Result Page](diagnosis_result_page.png.png)
 
 ---
 
