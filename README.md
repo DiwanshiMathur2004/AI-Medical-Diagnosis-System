@@ -24,7 +24,7 @@ Access to timely and accurate medical diagnosis is a challenge in many areas. Pa
 - **Python 3**
 - **Pandas, NumPy**
 - **Scikit-learn**
-- **Flask** (for the web interface)
+- **Streamlit** (for the web interface)
 - **HTML/CSS/Bootstrap** (for the frontend)
 - **Matplotlib / Seaborn** (for evaluation and visualization)
 
