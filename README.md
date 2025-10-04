@@ -46,7 +46,7 @@ Access to timely and accurate medical diagnosis is a challenge in many areas. Pa
    - Encode categorical values (symptoms/diseases)
 
 2. **Model Training**
-   - Algorithms used: **Random Forest**, **Naive Bayes**
+   - Algorithms used: **Logistic Regression**, **SVM**
    - Split into training and test sets (80/20)
    - Evaluation: Accuracy, Precision, Recall, F1-Score
 
